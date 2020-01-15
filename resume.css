@@ -1,0 +1,38 @@
+body {
+  font-weight: bold;
+  font-family: "arial";
+ 
+        
+  
+}
+ 
+.info {
+  text-align: right;
+  color
+ }
+.main-image {
+    border: solid 4px black;
+    border-radius: 50%;
+    height:200px;
+    width: 15%;
+    margin: 50px;
+ }
+header {
+  background-image: url(images/ExperienceBG.JPg) ;
+
+}
+
+div {
+  background-image: url() ;
+
+}
+h1  {
+   background-color:transparent;
+   text-decoration-color: ivory;
+   border: solid black 5px;
+   padding: 10px;
+}
+
+.section-title {
+  text-transform: capitalize;
+}
